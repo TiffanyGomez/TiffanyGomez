@@ -1,8 +1,8 @@
 🧑‍💻 About me : 
 
 - 👋 Bonjour, je m'appelle Tiffany Gomez
-- Passionnée par le développement logiciel et web, je suis actuellement étudiante en 3ᵉ année à Epitech, où je prépare un Master of Science pour 2027.
-- 👀 Pour mes deux années de master, je souhaite me spécialiser en IA, data ou développement.
+- Passionnée par le développement logiciel et web, je suis actuellement étudiante en 1ère année de master à Epitech, où je prépare un Master of Science pour 2027.
+- 👀 Pour mes deux années de master, je me spécialise en Réalité Virtuelle / IOT.
 - 🌐[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=world&logoColor=white)](https://app-63bd6e61-c50b-4150-b6c6-28a4cd5a2108.cleverapps.io/)
 
 🛠 Technology Stack :
