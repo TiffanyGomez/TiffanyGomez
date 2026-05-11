@@ -19,11 +19,3 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:tiffany.gomez@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tiffany-gomez-05b46025a)
-
-📊 My GitHub Stats :
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiffanyGomez&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiffanyGomez&show_icons=true&theme=radical)
-
-
-
