@@ -3,8 +3,8 @@
 - 👋 Bonjour, je m'appelle Tiffany Gomez
 - Passionnée par le développement logiciel et web, je suis actuellement étudiante en 1ère année de master à Epitech, où je prépare un Master of Science pour 2027.
 - 👀 Pour mes deux années de master, je me spécialise en Réalité Virtuelle / IOT.
-- 🌐[![Portfolio](https://tiffanygomez.github.io/portfolio-Tiffany/)
-🛠 Technology Stack :
+- 🌐[  Portfolio](https://tiffanygomez.github.io/portfolio-Tiffany/)
+- 🛠 Technology Stack :
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
